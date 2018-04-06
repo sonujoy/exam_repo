@@ -6,6 +6,6 @@ thrissur
 pin 680651
 alroad
 
-defining git
---------------------------
-git is distributed version control
+git defining
+==============
+git is a distributed version control system.
