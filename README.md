@@ -5,3 +5,7 @@ p o nettissery ,nellenkara
 thrissur
 pin 680651
 alroad
+
+defining git
+--------------------------
+git is distributed version control
